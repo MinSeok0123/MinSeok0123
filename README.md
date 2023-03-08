@@ -1,5 +1,4 @@
   
-  <center>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinSeok0123&&show_icons=true&theme=radical)
 <div algin=center>
 
@@ -16,4 +15,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinSeok0123)](https://github.com/MinSeok0123/github-readme-stats)
 
-</center>
